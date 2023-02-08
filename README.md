@@ -3,7 +3,7 @@
 <a href="https://github.com/blanconuclear" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/efrén-corzón-227b53261" target="_blank">
+<a href="https://www.linkedin.com/in/efr%C3%A9n-corz%C3%B3n-227b53261/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
