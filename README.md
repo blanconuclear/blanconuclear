@@ -20,6 +20,8 @@
 
 </td><td valign="top" width="50%">
 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="400" />  
+
 </td></tr></table>
 
 <br/>
